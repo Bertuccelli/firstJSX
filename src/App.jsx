@@ -18,7 +18,3 @@ function App() {
 }
 
 export default App;
-
-// const domContainer = document.querySelector('#root');
-// const root = ReactDOM.createRoot(domContainer);
-// root.render(<h1>Hello World!</h1>);
